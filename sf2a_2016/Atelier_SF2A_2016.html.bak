@@ -3,7 +3,7 @@
   <head>
     <meta content="text/html; charset=windows-1252" http-equiv="content-type">
     <title>Atelier SF2A 2016</title>
-    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <!-- link to main stylesheet -->
     <link rel="stylesheet" type="text/css" href="../css/main.css">
   </head>
@@ -84,5 +84,6 @@
         <li><a href="https://sfromang.github.io">sfromang.github.io</a></li>
       </ul>
     </footer>
+    
   </body>
 </html>
