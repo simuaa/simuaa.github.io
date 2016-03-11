@@ -41,10 +41,13 @@
       </ul>
       <br>
       <hr>
-      <!--              <h2><span style="font-weight: bold;">Reports:</span></h2>
-      <ul>        <li>
-          <!--          <p>The INSU prospective was held in 2015. The report written by the            numerical simulation group can be found here.</p> <br>
-        </li>      </ul>-->
+      <h2><span style="font-weight: bold;">Reports:</span></h2>
+      <ul>
+        <li>
+          <p>The INSU prospective was held in 2015. The report written by the
+            numerical simulation group can be found here.</p>
+        </li>
+      </ul>
       <p> </p>
     </div>
     <!-- /.container -->

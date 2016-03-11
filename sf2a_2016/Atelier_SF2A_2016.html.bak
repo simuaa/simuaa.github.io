@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta content="text/html; charset=windows-1252" http-equiv="content-type">
+    <title>Atelier SF2A 2016</title>
+    <!-- link to main stylesheet -->
+    <link rel="stylesheet" type="text/css" href="../css/main.css">
+  </head>
+  <body>
+    <nav>
+      <ul>
+        <li><a href="./index.html">Home</a></li>
+      </ul>
+    </nav>
+    <div class="container">
+      <div class="blurb">
+        <h1>Numerical simulations workshop (16-17 June 2016)</h1>
+        <p>organized during the <a href="http://2016.sf2a.eu/">French astronomy
+            week</a> in Lyon</p>
+        <img style="width: 134px; height: 134px;" alt="" src="figures/rincon_img.png">
+      </div>
+      <!-- /.blurb  -->
+      <p> </p>
+      <span style="font-weight: bold;">Rationale</span> (in french):<br>
+      <br>
+      La simulation numérique prend depuis quelques années une place de plus en
+      plus importante en astrophysique. Ses objectifs sont variés, allant des
+      études théoriques pures qui incluent de plus en plus de phénomènes
+      physiques (dynamique, chimie, transfert radiatif, …) jusqu'à des
+      comparaisons détaillées avec les observations, la préparation&nbsp; de
+      campagnes d’observations, ou la définition d’instruments ou de missions
+      spatiales. <br>
+      <br>
+      Cet essor n'est pas limité à notre seule discipline: c’est une véritable
+      révolution à l'échelle de la recherche fondamentale dans son ensemble.
+      Elle s’appuie, depuis une dizaine d’années, sur la montée en puissance
+      spectaculaire des moyens de calcul offerts aux chercheurs par les centres
+      nationaux (via GENCI) ou Européens (via PRACE). Elle s’accompagne de
+      modifications profondes du travail au quotidien des chercheurs
+      spécialistes en simulation numérique, et l’on assiste aujourd’hui à une
+      véritable professionalisation de ce travail, et, de plus en plus,&nbsp; à
+      des projets qui sont réalisés en partenariat avec des ingénieurs en génie
+      logiciel. Les évolutions technologiques profondes anticipées pour le
+      passage à l’exascale imminent annoncent une nouvelle étape dans cette
+      professionnalisation, à laquelle la communauté astrophysique doit réagir
+      rapidement.<br>
+      <br>
+      Dans ce contexte, nous proposons la tenue d'un atelier lors de la SF2A
+      2016 qui réunira tous les acteurs et experts français en simulations
+      numériques en astrophysique, dans le but de faire un état des lieux des
+      travaux de recherche, des compétences et des évolutions techniques des
+      différentes communautés astrophysiques en France. Cet atelier aura aussi
+      pour objectif de rassembler notre communauté dans toute sa diversité
+      thématique autour de problématiques techniques similaires,&nbsp; et
+      d’échanger sur les méthodes actuelles et stratégies à venir.<br>
+      <br>
+      Cet atelier se déroulera sur deux après-midi et sera constitué de
+      présentations invités qui illustreront quelques résultats marquants
+      obtenus par des équipes de chercheurs francaises grâce à des simulations
+      numériques lourdes et/ou des efforts de développement significatifs,,
+      ainsi que d'une douzaine de présentations contribuées. Les orateurs
+      invités sont:<br>
+      <ul>
+        <li>Nicolas Aunai (LPP, Paris)</li>
+        <li>Sacha Brun (CEA/Saclay, Paris)</li>
+        <li>Benoit Commercon (CRAL, Lyon)</li>
+        <li>Philippe Grand-Clement (Luth, Meudon Observatory)</li>
+        <li>Pierre Ocivrck (Strasbourg University)</li>
+        <li>Francois Rincon (IRAP, Toulouse)</li>
+      </ul>
+      <br>
+      <span style="font-weight: bold;">SOC:</span> G. Aulagnier, J. Blaizot, B.
+      Dintrans, G. Dubus, S. Fromang, P. Hennebelle, P. Le Petit, A. Marchaudon<br>
+      <br>
+      <br>
+      <hr>
+      <p> </p>
+    </div>
+    <!-- /.container -->
+    <footer>
+      <ul>
+        <li><a href="mailto:sebastien.fromang@cea.fr">email</a></li>
+        <li><a href="https://sfromang.github.io">sfromang.github.io</a></li>
+      </ul>
+    </footer>
+  </body>
+</html>
