@@ -3,7 +3,6 @@
   <head>
     <meta content="text/html; charset=windows-1252" http-equiv="content-type">
     <title>Atelier SF2A 2016</title>
-    <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
     <!-- link to main stylesheet -->
     <link rel="stylesheet" type="text/css" href="../css/main.css">
   </head>
@@ -18,55 +17,45 @@
         <h1>Numerical simulations workshop (16-17 June 2016)</h1>
         <p>organized during the <a href="http://2016.sf2a.eu/">French astronomy
             week</a> in Lyon</p>
-        <img style="width: 134px; height: 134px;" alt="" src="figures/rincon_img.png">
+        <img style="width: 134px; height: 134px;" alt="" src="figures/rincon_img.png"><img
+          style="width: 133px; height: 133px;" title="sacha_img" alt="" src="figures/DeepSunTurbPr1f_Vr_highres.jpg">
       </div>
       <!-- /.blurb  -->
       <p> </p>
-      <span style="font-weight: bold;">Rationale</span> (in french):<br>
+      <span style="font-weight: bold;">Rationale</span>:<br>
       <br>
-      La simulation num&eacute;rique prend depuis quelques ann&eacute;es une
-      place de plus en plus importante en astrophysique. Ses objectifs sont
-      vari&eacute;s, allant des &eacute;tudes th&eacute;oriques pures qui
-      incluent de plus en plus de ph&eacute;nom&egrave;nes physiques (dynamique,
-      chimie, transfert radiatif, …) jusqu'&agrave; des comparaisons
-      d&eacute;taill&eacute;es avec les observations, la
-      pr&eacute;paration&nbsp; de campagnes d’observations, ou la
-      d&eacute;finition d’instruments ou de missions spatiales. <br>
+      The importance of numerical simulations in astrophysics has increased
+      significantly over the past few years. Their aims are diverse, ranging
+      from pure theoretical studies that includes more and more physics
+      (dynamics, chemistry, radiative transfer) to detailed comparisons with the
+      observations, their preparation or with the design and conception of space
+      and ground based instruments.<br>
       <br>
-      Cet essor n'est pas limit&eacute; &agrave; notre seule discipline: c’est
-      une v&eacute;ritable r&eacute;volution &agrave; l'&eacute;chelle de la
-      recherche fondamentale dans son ensemble. Elle s’appuie, depuis une
-      dizaine d’ann&eacute;es, sur la mont&eacute;e en puissance spectaculaire
-      des moyens de calcul offerts aux chercheurs par les centres nationaux (via
-      GENCI) ou Europ&eacute;ens (via PRACE). Elle s’accompagne de modifications
-      profondes du travail au quotidien des chercheurs sp&eacute;cialistes en
-      simulation num&eacute;rique, et l’on assiste aujourd’hui &agrave; une
-      v&eacute;ritable professionalisation de ce travail, et, de plus en
-      plus,&nbsp; &agrave; des projets qui sont r&eacute;alis&eacute;s en
-      partenariat avec des ing&eacute;nieurs en g&eacute;nie logiciel. Les
-      &eacute;volutions technologiques profondes anticip&eacute;es pour le
-      passage &agrave; l’exascale imminent annoncent une nouvelle &eacute;tape
-      dans cette professionnalisation, &agrave; laquelle la communaut&eacute;
-      astrophysique doit r&eacute;agir rapidement.<br>
+      Such a massive change is, of course, not limited to astrophysics, but is
+      widespread accross all fields of fundamental research. It results largely
+      from the spectacular increase of the gigantic computing power of
+      modern&nbsp; supercomputers that are now available to researchers both at
+      the national (through GENCI) and european level (trough PRACE). It is
+      accompanied by profound evolutions of the methods used by specialists of
+      numerical simulations. More and more research projects are now performed
+      in close collaborations with software engineers. With exascale computers
+      coming soon, such a professionalism of high performance computing (HPC) is
+      expected to become more and more unavoidable. Like the other communities
+      in France, astrophysicists must prepare to that transition.<br>
       <br>
-      Dans ce contexte, nous proposons la tenue d'un atelier lors de la SF2A
-      2016 qui r&eacute;unira tous les acteurs et experts fran&ccedil;ais en
-      simulations num&eacute;riques en astrophysique, dans le but de faire un
-      &eacute;tat des lieux des travaux de recherche, des comp&eacute;tences et
-      des &eacute;volutions techniques des diff&eacute;rentes communaut&eacute;s
-      astrophysiques en France. Cet atelier aura aussi pour objectif de
-      rassembler notre communaut&eacute; dans toute sa diversit&eacute;
-      th&eacute;matique autour de probl&eacute;matiques techniques
-      similaires,&nbsp; et d’&eacute;changer sur les m&eacute;thodes actuelles
-      et strat&eacute;gies &agrave; venir.<br>
+      In this context, we organize a workshop during the french astronomy week
+      that will gather experts in HPC in order to present the current state of
+      the art of french numerical simulations in astrophysics. By bringing
+      together an audience with varied scientific interest, the goal of the
+      workshop is to generate discussions about current technical problem and
+      numerical methods as well as discuss their future evolutions.<br>
       <br>
-      Cet atelier se d&eacute;roulera sur deux apr&egrave;s-midi et sera
-      constitu&eacute; de pr&eacute;sentations invit&eacute;s qui illustreront
-      quelques r&eacute;sultats marquants obtenus par des &eacute;quipes de
-      chercheurs francaises gr&acirc;ce &agrave; des simulations
-      num&eacute;riques lourdes et/ou des efforts de d&eacute;veloppement
-      significatifs,, ainsi que d'une douzaine de pr&eacute;sentations
-      contribu&eacute;es. Les orateurs invit&eacute;s sont:<br>
+      It will be organized over two afternoons (thursday 16 June and friday 17
+      June) and will alternate between invited presentations that will
+      illustrate spectacular results obtained by french research groups using
+      massive numerical simulations and/or significant numerical development and
+      a dozen of contributed talks. The invited speakers are:<br>
+      <br>
       <ul>
         <li>Nicolas Aunai (LPP, Paris)</li>
         <li>Sacha Brun (CEA/Saclay, Paris)</li>
