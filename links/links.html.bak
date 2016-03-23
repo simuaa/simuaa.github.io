@@ -26,14 +26,14 @@
       <p> </p>
       <span style="font-weight: bold;">Organizations:</span><br>
       <ul>
-        <li>GENCI</li>
-        <li>PRACE</li>
+        <li><a href="http://www.genci.fr/fr">GENCI</a></li>
+        <li><a href="http://www.prace-ri.eu/">PRACE</a></li>
       </ul>
       <span style="font-weight: bold;">Supercomputing centers:</span><br>
       <ul>
-        <li>IDRIS</li>
-        <li>CINES</li>
-        <li>TGCC</li>
+        <li><a href="http://www.idris.fr/">IDRIS</a></li>
+        <li><a href="https://www.cines.fr/">CINES</a></li>
+        <li><a href="http://www-hpc.cea.fr/fr/complexe/tgcc.htm">TGCC</a></li>
       </ul>
       <br>
       <p> </p>
