@@ -1,47 +1,49 @@
 <!DOCTYPE html>
 <html>
-	<head>
-		<title>Mailing list</title>
-			<!-- link to main stylesheet -->  
-		<link rel="stylesheet" type="text/css" href="../css/main.css">
-	</head>
-	<body>
-		<nav>
-    		<ul>
-        		<li><a href="../index.html">Home</a></li>
-	        	<li><a href="./mailing/mailing.html">Mailing list</a></li>
-        		<li><a href="./news">News</a></li>
-        		<li><a href="./groups">Groups in France</a></li>
-    		</ul>
-		</nav>
-		<div class="container">
-    		<div class="blurb">
-        		<h1>The "simuaa" mailing list</h1>
-    		</div><!-- /.blurb  -->
-    		
-		We have set up a mailing list for the numerical simulation community, with the aim to share informations, news, job openings, events announcements, etc...
-		<p> </p>
-		<ol>
-		  <li>To register to the mailing list simuaa, please send an email to: <a
-											  href="mailto:sympa@services.cnrs.fr">sympa@services.cnrs.fr</a> with the subject "subscribe simuaa firstname lastname" 
-		  <li>To unsubscribe to the mailing list simuaa, please send an email to: <a
-											     href="mailto:sympa@services.cnrs.fr">sympa@services.cnrs.fr</a> with the subject "unsubscribe simuaa" 
-		  </li>
-		</ol>
-		<h2> </h2>
-		<hr style="width: 100%; height: 2px;">
-                <p> </p>
-		More informations about the cnrs mailing list can be obtained at this url: <a
-											      href="https://listes.services.cnrs.fr/wws/home">Service de listes de messagerie par CNRS/DSI</a>
-                <p> </p>
-		
-		
-		<footer>
-		  <ul>
-		    <li><a href="mailto:sebastien.fromang@cea.fr">email</a></li>
-		    <li><a href="http://sfromang.github.io">sfromang.github.io</a></li>
-		  </ul>
-		</footer>
-		
-	</body>
+  <head>
+    <meta content="text/html; charset=windows-1252" http-equiv="content-type">
+    <title>Mailing list</title>
+    <!-- link to main stylesheet -->
+    <link rel="stylesheet" type="text/css" href="../css/main.css">
+  </head>
+  <body>
+    <nav>
+      <ul>
+        <li><a href="../index.html">Home</a></li>
+        <li><a href="./mailing/mailing.html">Mailing list</a></li>
+        <li><a href="./news">News</a></li>
+        <li><a href="./groups">Links</a></li>
+      </ul>
+    </nav>
+    <div class="container">
+      <div class="blurb">
+        <h1>The "simuaa" mailing list</h1>
+      </div>
+      <!-- /.blurb  --> We have set up a mailing list for the numerical
+      simulation community, with the aim to share informations, news, job
+      openings, events announcements, etc...
+      <p> </p>
+      <ol>
+        <li>To register to the mailing list simuaa, please send an email to: <a
+            href="mailto:sympa@services.cnrs.fr">sympa@services.cnrs.fr</a> with
+          the subject "subscribe simuaa firstname lastname" </li>
+        <li>To unsubscribe to the mailing list simuaa, please send an email to:
+          <a href="mailto:sympa@services.cnrs.fr">sympa@services.cnrs.fr</a>
+          with the subject "unsubscribe simuaa" </li>
+      </ol>
+      <h2> </h2>
+      <hr style="width: 100%; height: 2px;">
+      <p> </p>
+      More informations about the cnrs mailing list can be obtained at this url:
+      <a href="https://listes.services.cnrs.fr/wws/home">Service de listes de
+        messagerie par CNRS/DSI</a>
+      <p> </p>
+      <footer>
+        <ul>
+          <li><a href="mailto:sebastien.fromang@cea.fr">email</a></li>
+          <li><a href="http://sfromang.github.io">sfromang.github.io</a></li>
+        </ul>
+      </footer>
+    </div>
+  </body>
 </html>
