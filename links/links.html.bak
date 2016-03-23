@@ -10,9 +10,9 @@
     <nav>
       <ul>
         <li><a href="../index.html">Home</a></li>
-        <li><a href="./mailing/mailing.html">Mailing list</a></li>
-        <li><a href="./news">News</a></li>
-        <li><a href="./groups">Links</a></li>
+        <li><a href="../mailing/mailing.html">Mailing list</a></li>
+        <li><a href="../news/news.html">News</a></li>
+        <li><a href="./links.html">Links</a></li>
       </ul>
     </nav>
     <div class="container">

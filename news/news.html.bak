@@ -11,32 +11,15 @@
       <ul>
         <li><a href="../index.html">Home</a></li>
         <li><a href="../mailing/mailing.html">Mailing list</a></li>
-        <li><a href="../news/news.html">News</a></li>
+        <li><a href="./news.html">News</a></li>
         <li><a href="../links/link.html">Links</a></li>
       </ul>
     </nav>
     <div class="container">
       <div class="blurb">
-        <h1>The "simuaa" mailing list</h1>
+        <h1>News</h1>
       </div>
-      <!-- /.blurb  --> We have set up a mailing list for the numerical
-      simulation community, with the aim to share informations, news, job
-      openings, events announcements, etc...
-      <p> </p>
-      <ol>
-        <li>To register to the mailing list simuaa, please send an email to: <a
-            href="mailto:sympa@services.cnrs.fr">sympa@services.cnrs.fr</a> with
-          the subject "subscribe simuaa firstname lastname" </li>
-        <li>To unsubscribe to the mailing list simuaa, please send an email to:
-          <a href="mailto:sympa@services.cnrs.fr">sympa@services.cnrs.fr</a>
-          with the subject "unsubscribe simuaa" </li>
-      </ol>
-      <h2> </h2>
-      <hr style="width: 100%; height: 2px;">
-      <p> </p>
-      More informations about the cnrs mailing list can be obtained at this url:
-      <a href="https://listes.services.cnrs.fr/wws/home">Service de listes de
-        messagerie par CNRS/DSI</a>
+      <!-- /.blurb  -->&nbsp;
       <p> </p>
       <footer>
         <ul>
