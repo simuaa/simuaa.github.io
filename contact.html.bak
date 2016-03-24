@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta content="text/html; charset=windows-1252" http-equiv="content-type">
+    <title>Mailing list</title>
+    <!-- link to main stylesheet -->
+    <link rel="stylesheet" type="text/css" href="./css/main.css">
+  </head>
+  <body>
+    <nav>
+      <ul>
+        <li><a href="./index.html">Home</a></li>
+        <li><a href="./mailing/mailing.html">Mailing list</a></li>
+        <li><a href="./news/news.html">News</a></li>
+        <li><a href="./links/links.html">Links</a></li>
+      </ul>
+    </nav>
+    <div class="container">
+      <div class="blurb">
+        <h1>Contact</h1>
+      </div>
+      <!-- /.blurb  --> Don't hesitate to contact any of us for any suggestions
+      or comments about the content of the simuaa webpage. The group is composed
+      of
+      <p> </p>
+      <ul>
+        <li>G. Aulanier</li>
+        <li>J. Blaizot (website designer)</li>
+        <li>B. Dintrans</li>
+        <li>G. Dubus</li>
+        <li>S. Fromang (website designer)</li>
+        <li>P. Hennebelle</li>
+        <li>F. Le Petit</li>
+        <li>A. Marchaudon</li>
+        <li>J.-P. Vilotte</li>
+      </ul>
+      <p> </p>
+      <footer>
+        <ul>
+          <li><a href="mailto:sebastien.fromang@cea.fr">email</a></li>
+          <span style="text-decoration: underline;"></span>
+          <li><a href="https://simuaa.github.io">simuaa.github.io</a></li>
+        </ul>
+      </footer>
+    </div>
+  </body>
+</html>
