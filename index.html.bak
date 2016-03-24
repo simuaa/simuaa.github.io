@@ -42,19 +42,19 @@
         </li>
       </ul>
       <hr><br>
-      <br>
-      <div style="text-align: center;"><img style="width: 77px; height: 69px;"
-          title="construction" alt="construction" src="file:///dsm/mri/data4/sfromang/admin/INSUsimu/simuaaWeb/construction.gif"
-          align="left"> <img style="width: 77px; height: 69px;" title="construction"
-          alt="construction" src="file:///dsm/mri/data4/sfromang/admin/INSUsimu/simuaaWeb/construction.gif"
-          align="right"> This webpage is still in construction. We are planning
-        to add a page that will display results obtained by french teams by
-        means of numerical simulations. If you wish to contribute, please <a href="file:///dsm/mri/data4/sfromang/admin/INSUsimu/simuaaWeb/sebastien.fromang@cea.fr">send
-          us </a>an image along with a few lines of description, credits, and a
-        link to a publication.</div>
-      <br>
-      <br>
-      <br>
+      <div style="text-align: center;">
+        <p><img style="width: 68px; height: 61px;" title="construction" alt="construction"
+            src="file:///dsm/mri/data4/sfromang/admin/INSUsimu/simuaaWeb/construction.gif"
+            align="left"> <img style="width: 77px; height: 69px;" title="construction"
+            alt="construction" src="file:///dsm/mri/data4/sfromang/admin/INSUsimu/simuaaWeb/construction.gif"
+            align="right"> This webpage is still in construction. We are
+          planning to add a page that will display results obtained by french
+          teams by means of numerical simulations. If you wish to contribute,
+          please <a href="file:///dsm/mri/data4/sfromang/admin/INSUsimu/simuaaWeb/sebastien.fromang@cea.fr">send
+            us </a>an image along with a few lines of description, credits, and
+          a link to a publication.</p>
+      </div>
+      <p> </p>
       <hr><br>
       <p> </p>
     </div>
