@@ -23,8 +23,8 @@
       <hr>
       <ul>
         <li>
-          <p><a href="file:///dsm/mri/data4/sfromang/admin/INSUsimu/simuaaWeb/sf2a_2016/Atelier_SF2A_2016.html">Numerical
-              simulations workshop</a>, organized during the <a href="http://2016.sf2a.eu/">french
+          <p><a href="../sf2a_2016/Atelier_SF2A_2016.html">Numerical simulations
+              workshop</a>, organized during the <a href="http://2016.sf2a.eu/">french
               astronomy week</a>, to be held in Lyon in June, will host a
             workshop devoted to numerical simulations in astrophysics on June
             16th and 17th 2016.</p>
@@ -44,7 +44,7 @@
       <p> </p>
       <footer>
         <ul>
-          <li><a href="mailto:sebastien.fromang@cea.fr">email</a></li>
+          <li><a href="../contact.html">contact</a></li>
           <li><a href="http://simuaa.github.io">simuaa.github.io</a></li>
         </ul>
       </footer>
