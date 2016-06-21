@@ -26,8 +26,7 @@
             alt="" src="./figures/rincon_img.png"></a> </div>
       <!-- /.blurb  -->
       <p> </p>
-      <span style="font-weight: bold;">Rationale</span>:<br>
-      <br>
+      <p> <span style="font-weight: bold;">Rationale</span>:</p>
       The importance of numerical simulations in astrophysics has increased
       significantly over the past few years. Their aims are diverse, ranging
       from pure theoretical studies that includes more and more physics
@@ -54,36 +53,211 @@
       workshop is to generate discussions about current technical problem and
       numerical methods as well as discuss their future evolutions.<br>
       <br>
-      It will be organized over two afternoons (thursday 16 June and friday 17
-      June) and will alternate between invited presentations that will
-      illustrate spectacular results obtained by french research groups using
-      massive numerical simulations and/or significant numerical development and
-      a dozen of contributed talks. We plan to award 2-3 fellowship to PhD
-      students that will present their work during the workshop. The invited
-      speakers are:<br>
-      <br>
-      <ul>
-        <li>Nicolas Aunai (LPP)</li>
-        <li>Sacha Brun (CEA/Saclay)</li>
-        <li>Benoit Commercon (CRAL/ENS Lyon)</li>
-        <li>Philippe Grandcl&eacute;ment (LUTH, Obs. Meudon)</li>
-        <li>Pierre Ocivrck (Obs. Strasbourg)</li>
-        <li>Francois Rincon (IRAP)</li>
-      </ul>
-      <p><span style="font-weight: bold;"><span style="color: #333333;">Registration
-            and submission of contributed talks is now opened on the <a href="http://2016.sf2a.eu/">french
-              astronomy week</a> website!</span> The deadline is 15 May 2016!</span><span
-          style="font-weight: bold;"><span style="color: #333333;"></span></span></p>
-      <span style="color: #333333;">For more information, please send an email
-        to <a href="mailto:sebastien.fromang@cea.fr">S&eacute;bastien Fromang </a></span><br>
-      <span style="font-weight: bold;"><span style="color: #333333;"></span></span>
-      <ul>
-      </ul>
-      <br>
       <span style="font-weight: bold;">SOC:</span> G. Aulagnier, J. Blaizot, B.
-      Dintrans, G. Dubus, S. Fromang, P. Hennebelle, P. Le Petit, A. Marchaudon<br>
+      Dintrans, G. Dubus, S. Fromang, P. Hennebelle, P. Le Petit, A. Marchaudon
+      <ul>
+      </ul>
       <br>
+      <p><span style="font-weight: bold;">Program and slides</span></p>
+      <span style="color: #333333; font-weight: bold;">Thursday 16 June:</span><br>
+      <span style="color: #333333;"></span><font style="font-size: 11pt" size="2"><span
+          lang="fr-FR"><b><br>
+            <br>
+            14h00:
+            Francois Rincon (IRAP)</b></span></font>
+      <font style="font-size: 11pt" size="2"><span lang="fr-FR"></span></font><font
+        style="font-size: 11pt" size="2"><span lang="fr-FR"><b><br>
+            &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; <a href="talks/160616/Rincon_SF2A.pdf">"Numerical
+simulations
+              of turbulent dynamo in a collisionless plasma</a></b></span></font><font
+        style="font-size: 11pt" size="2"><span lang="fr-FR"><b><a href="talks/160616/Rincon_SF2A.pdf">"</a><br>
+            14h30:
+            Allan Sacha Brun (CEA/Saclay, AIM)</b></span></font><font style="font-size: 11pt"
+        size="2"><span lang="fr-FR"></span></font><font style="font-size: 11pt"
+        size="2"><span lang="fr-FR"><b><br>
+            &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; <a href="talks/160616/Brun_SF2A2016.pdf">"Turbulence
+et
+              magn&eacute;tisme des &eacute;toiles: de l&rsquo;effet dynamo aux
+              vents
+              stellaires"</a></b></span></font><font style="font-size: 11pt" size="2"><span
+          lang="fr-FR"><br>
+          15h00:
+          Remi Kazeroni (CEA/Saclay, AIM)</span></font><font style="font-size: 11pt"
+        size="2"><span lang="fr-FR"></span></font><font style="font-size: 11pt"
+        size="2"><span lang="fr-FR"><br>
+          &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; <a href="talks/160616/Kazeroni_SF2A.pdf">"Impact
+of
+            stellar rotation on the explosion mechanism of core-collapse
+            supernovae"</a></span></font><font style="font-size: 11pt" size="2"><span
+          lang="fr-FR"><br>
+          15h15:
+          Valeska Valvidia (CEA/Saclay, AIM)</span></font><font style="font-size: 11pt"
+        size="2"><span lang="fr-FR"></span></font><font style="font-size: 11pt"
+        size="2"><span lang="fr-FR"><br>
+          &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; <a href="talks/160616/Valvidia_SF2A.pdf">"Chemistry
+and
+            dynamics in RAMSES: post-processing tool towards a real coupling"</a></span></font><font
+        style="font-size: 11pt" size="2"><span lang="fr-FR"><br>
+          15h30:
+          Victor Reville (CEA/Saclay, AIM)</span></font><font style="font-size: 11pt"
+        size="2"><span lang="fr-FR"></span></font><font style="font-size: 11pt"
+        size="2"><span lang="fr-FR"><br>
+          &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; <a href="talks/160616/Reville_SF2A.pdf">"Rotation
+rapide
+            et champs magn&eacute;tiques complexes dans les simulations MHD de
+            vents stellaires."</a></span></font><font style="font-size: 11pt" size="2"><span
+          lang="fr-FR"><br>
+          <br>
+          15h45-16h15:
+          Pause caf&eacute;</span></font>
+      <font style="font-size: 11pt" size="2"><span lang="fr-FR"></span></font><font
+        style="font-size: 11pt" size="2"><span lang="fr-FR"><b><br>
+            <br>
+            16h15:
+            Philippe Grandclement (LUTH, Obs. Meudon<span style="font-style: italic;">)</span></b></span></font><font
+        style="font-size: 11pt" size="2"><span lang="fr-FR"><i><b><br>
+              &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; <a href="talks/160616/Grandclement_2016.pdf">"Relativit&eacute;
+num&eacute;rique
+                et m&eacute;thodes spectrales"</a></b></i></span></font><a href="talks/160616/Grandclement_2016.pdf"><font
+          style="font-size: 11pt" size="2"><span lang="fr-FR"></span></font><font
+          style="font-size: 11pt" size="2"><span lang="fr-FR"><b><span style="font-style: italic;"></span></b></span></font></a><font
+        style="font-size: 11pt" size="2"><span lang="fr-FR"><br>
+          16h45:
+          Jonathan Freundlich (Coll&egrave;ge de France &amp; LERMA,
+          Observatoire de
+          Paris)</span></font>
+      <font style="font-size: 11pt" size="2"><span lang="fr-FR"></span></font><font
+        style="font-size: 11pt" size="2"><span lang="fr-FR"><br>
+          &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; <a href="talks/160616/Freundlich_SF2A.pdf">"How
+baryonic
+            feedback processes can affect dark matter haloes: a
+            stochastic model"</a></span></font><font style="font-size: 11pt" size="2"><span
+          lang="fr-FR"><br>
+          17h00:
+          William Bethune (IPAG, Grenoble)</span></font><font style="font-size: 11pt"
+        size="2"><span lang="fr-FR"></span></font><font style="font-size: 11pt"
+        size="2"><span lang="fr-FR"><br>
+          &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; <a href="talks/160616/Bethune_SF2A.pdf">"Hall-MHD
+and
+            self-organization in protoplanetary disks"</a></span></font><font style="font-size: 11pt"
+        size="2"><span lang="fr-FR"><br>
+          17h15:
+          Constance Emeriau-Viard (CEA/Saclay, AIM)</span></font><font style="font-size: 11pt"
+        size="2"><span lang="fr-FR"></span></font><font style="font-size: 11pt"
+        size="2"><span lang="fr-FR"><br>
+          &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; <a href="talks/160616/Emeriau-Viard_SF2A.pdf">"Evolution
+of
+            internal magnetic field in solar-like stars during the PMS"</a></span></font><font
+        style="font-size: 11pt" size="2"><span lang="fr-FR"><br>
+          17h30:
+          Amandine Le Brun (CEA/Saclay, AIM)</span></font><font style="font-size: 11pt"
+        size="2"><span lang="fr-FR"></span></font><font style="font-size: 11pt"
+        size="2"><span lang="fr-FR"><br>
+          &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; <a href="talks/160616/Lebrun_SF2A.pdf">"Evolution
+des
+            profils de mati&egrave;re noire des amas massifs
+            jusqu&rsquo;&agrave; redshift 1"</a></span></font><a href="talks/160616/Lebrun_SF2A.pdf"><font
+          style="font-size: 11pt" size="2"><span lang="fr-FR"></span></font></a><br>
+      <font style="font-size: 11pt" size="2"><span lang="fr-FR"><font style="font-size: 11pt"
+            size="2"><span lang="fr-FR">17h45:
+              Jose G. Fernandez-Trincado (UTINAM, Besancon)</span></font><font style="font-size: 11pt"
+            size="2"><span lang="fr-FR"><br>
+              &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; <a href="talks/160616/Trincado_SF2A.pdf">"ResonantFamilies
+                of Orbits in the Milky Way as Mapped by APOGEE Red Clump
+                Stars"</a></span></font><a href="talks/160616/Trincado_SF2A.pdf"><font
+              style="font-size: 11pt" size="2"><span lang="fr-FR"></span></font><font
+              style="font-size: 11pt" size="2"><span lang="fr-FR"></span></font></a></span></font><span
+        style="color: #333333;"><br>
+        <br>
+        <span style="font-weight: bold;">Friday 17 June:</span></span><span style="font-weight: bold;"></span><font
+        style="font-size: 11pt" size="2"><span lang="fr-FR"><b><br>
+            <br>
+            <br>
+            14h00:
+            Pierre Ocvirk (Obs. Strasbourg)</b></span></font><font style="font-size: 11pt"
+        size="2"><span lang="fr-FR"><b><br>
+            &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; <a href="talks/170616/Ocvirk_SF2A.pdf">"Introducing
+CoDa:
+              Radiation-Hydrodynamics of Galaxy Formation in the Early
+              Universe"</a></b></span></font><font style="font-size: 11pt" size="2"><span
+          lang="fr-FR"><b><br>
+            14h30:
+            Nicolas Aunai (LPP)</b></span></font><font style="font-size: 11pt" size="2"><span
+          lang="fr-FR"></span></font><font style="font-size: 11pt" size="2"><span
+          lang="fr-FR"><b><br>
+            &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; <a href="talks/170616/Aunai_SF2A.pdf">"Simulations
+cin&eacute;tiques
+              pour les plasmas spatiaux/astro"</a></b></span></font><font style="font-size: 11pt"
+        size="2"><span lang="fr-FR"><br>
+          15h00:
+          Olivier Iffrig (CEA/Saclay, AIM)</span></font><font style="font-size: 11pt"
+        size="2"><span lang="fr-FR"></span></font><font style="font-size: 11pt"
+        size="2"><span lang="fr-FR"><br>
+          &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; <a href="talks/170616/Iffrig_SF2A.pdf">"Stellar
+feedback
+            processes in kiloparsec-scale numerical simulations of the
+            ISM: a real challenge"</a></span></font><font style="font-size: 11pt"
+        size="2"><span lang="fr-FR"><br>
+          15h15:
+          Jenny Sorce (Leibniz Institute for Astrophysics, Allemagne)</span></font><font
+        style="font-size: 11pt" size="2"><span lang="fr-FR"></span></font><font
+        style="font-size: 11pt" size="2"><span lang="fr-FR"><br>
+          &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; <a href="talks/170616/Sorce_SF2A.pdf">"Simulating
+the
+            Local Universe"</a></span></font><font style="font-size: 11pt" size="2"><span
+          lang="fr-FR"><br>
+          15h30:
+          Aymeric Spiga (Laboratoire de M&eacute;t&eacute;orologie Dynamique /
+          UPMC)</span></font><font style="font-size: 11pt" size="2"><span lang="fr-FR"></span></font><font
+        style="font-size: 11pt" size="2"><span lang="fr-FR"><br>
+          &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; <a href="talks/170616/Spiga_SF2A.pdf">"Explorer
+la
+            dynamique atmosph&eacute;rique des plan&egrave;tes g&eacute;antes
+            par le calcul
+            haute performance"</a></span></font><font style="font-size: 11pt" size="2"><span
+          lang="fr-FR"><br>
+          <br>
+          15h45-16h15:
+          Pause caf&eacute;</span></font><br>
       <br>
+      <font style="font-size: 11pt" size="2"><span lang="fr-FR"><b>16h15:
+            Benoit Commer</b></span></font>&ccedil;<font style="font-size: 11pt"
+        size="2"><span lang="fr-FR"><b>on
+            (CRAL/ENS Lyon)</b></span></font><font style="font-size: 11pt" size="2"><span
+          lang="fr-FR"><b><br>
+            &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; <a href="talks/170616/Commercon_SF2A.pdf">"Etude
+des
+              m&eacute;canismes d'accretion et d'&eacute;jection lors de la
+              formation des
+              &eacute;toiles massives"</a> </b></span></font>
+      <font style="font-size: 11pt" size="2"><span lang="fr-FR"></span></font><font
+        style="font-size: 11pt" size="2"><span lang="fr-FR"><br>
+        </span></font><font style="font-size: 11pt" size="2"><span lang="fr-FR"><font
+            style="font-size: 11pt" size="2"><span lang="fr-FR">16h45:
+              Yueh-Ning Lee (CEA/Saclay, AIM)</span></font><font style="font-size: 11pt"
+            size="2"><span lang="fr-FR"></span></font><font style="font-size: 11pt"
+            size="2"><span lang="fr-FR"><br>
+              &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; <a href="talks/170616/Lee_SF2A.pdf">"The
+gaseous
+                protocluster: better characterizing the initial conditions
+                ofstellar cluster formation?"</a> </span></font>
+          <span style="color: #333333;"></span></span></font><font style="font-size: 11pt"
+        size="2"><span lang="fr-FR"><br>
+          17h00:
+          Vincent Reverdy (University of Illinois at Urbana-Champaign, USA)</span></font><font
+        style="font-size: 11pt" size="2"><span lang="fr-FR"><br>
+          &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; <a href="talks/170616/Reverdy_SF2A.pdf">"Perspectives
+in
+            numerical astrophysics: towards an exciting future in the exascale
+            era"</a></span></font><a href="talks/170616/Reverdy_SF2A.pdf"><font
+          style="font-size: 11pt" size="2"><span lang="fr-FR"></span></font><br>
+      </a><br>
+      <span style="color: #333333;"><br>
+        Invited presentation are shown in bold.<br>
+        <br>
+        For more information, please send an email to <a href="mailto:sebastien.fromang@cea.fr">S&eacute;bastien
+          Fromang </a></span><br>
+      <span style="font-weight: bold;"><span style="color: #333333;"></span></span><br>
       <hr>
       <p> </p>
     </div>
